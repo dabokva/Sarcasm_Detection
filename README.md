@@ -4,6 +4,9 @@
 
 ## Project workflow
 
+[Exploratory Data Analysis](/notebooks/exploratory_analysis.ipynb)  
+[Data Preprocessing](/notebooks/preprocessing.ipynb)  
+[Neural Network Composition](/notebooks/modelling.ipynb)
 
 ## Resources
 
